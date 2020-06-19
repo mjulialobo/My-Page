@@ -39,15 +39,11 @@ header {
     height: 100vh;
 }
 
-hr {
-    margin-top: 30px;
-}
-
 .home {
     font-size: 20px;
     font-weight: 500;
     margin: 20px;
-    color: #b8f8d4;
+    color: #9affc6;
     position: absolute;
     right: 10px;
 }
@@ -56,15 +52,14 @@ hr {
     width: 50%;
     margin: auto;
     text-align: center;
-    padding-top: 8%;
     padding-bottom: 8%;
+    height: 100vh;
 }
 
-.title {
-    color: #008037;
-    font-size: 40px;
-    text-align: center;
-    font-weight: bold;
+.mylogo {
+    padding-top: 10%;
+    width: 50%;
+    margin: auto;
 }
 
 .subtitle {

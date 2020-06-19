@@ -28,3 +28,14 @@ and an area with the courses I attended with links to the respective repositorie
   
  <h3> Courses - Hover </h3>
   <img src="https://user-images.githubusercontent.com/65983895/85108646-757de200-b1e6-11ea-97e8-ce109b5790c1.PNG"/>
+  
+  
+  
+  <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> How to use </h2>
+ <ul style= circle> <li> You need to install  <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VSCode </li> 
+ <li> Make a copy of this repository </li> 
+ 
+```
+ $ git clone https://github.com/mjulialobo/My-Page
+```
+<li> Use Live Server to activate the server </li> </ul>

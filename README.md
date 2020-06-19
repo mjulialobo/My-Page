@@ -10,7 +10,17 @@
 <p> With Letícia's help, I developed a responsive website that serves as a portfolio. </p> 
 <p>Divided into three sessions, we have a brief presentation of myself, description of my skills with skillbar 
 and an area with the courses I attended with links to the respective repositories. </p>
-<p>Logo was created by me using <a href="https://www.canva.com/"> Canva</a>, and follows the color palette of my professional curriculum.
+<p>Logo was created by me using <a href="https://www.canva.com/"> Canva</a>, and follows the color palette of my professional curriculum. </p>
+ 
+   <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> How to use </h2>
+ <ul style= circle> <li> You need to install  <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VSCode </li> 
+ <li> Make a copy of this repository </li> 
+ 
+```
+ $ git clone https://github.com/mjulialobo/My-Page
+```
+<li> Use Live Server to activate the server </li> </ul>
+
 
  <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
  
@@ -29,13 +39,3 @@ and an area with the courses I attended with links to the respective repositorie
  <h3> Courses - Hover </h3>
   <img src="https://user-images.githubusercontent.com/65983895/85108646-757de200-b1e6-11ea-97e8-ce109b5790c1.PNG"/>
   
-  
-  
-  <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> How to use </h2>
- <ul style= circle> <li> You need to install  <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VSCode </li> 
- <li> Make a copy of this repository </li> 
- 
-```
- $ git clone https://github.com/mjulialobo/My-Page
-```
-<li> Use Live Server to activate the server </li> </ul>

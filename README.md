@@ -25,9 +25,9 @@ and an area with the courses I attended with links to the respective repositorie
  <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
  
  <img src= "https://user-images.githubusercontent.com/65983895/85189100-0786f880-b282-11ea-85f7-2b4190a6b536.PNG"/>
- 
+  <p> *GIF does not reflect real colors </p>
  <img src="https://user-images.githubusercontent.com/65983895/85189055-b5de6e00-b281-11ea-9e79-913c10eda6c3.gif"/>
- <p> GIF does not reflect real colors </p>
+
  
 
   

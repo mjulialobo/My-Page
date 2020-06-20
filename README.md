@@ -24,18 +24,10 @@ and an area with the courses I attended with links to the respective repositorie
 
  <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
  
- <h3> About Me </h3>
- <img src="https://user-images.githubusercontent.com/65983895/85108641-73b41e80-b1e6-11ea-8bb4-0fa7a07b9e57.PNG"/>
+ <img src= "https://user-images.githubusercontent.com/65983895/85189100-0786f880-b282-11ea-85f7-2b4190a6b536.PNG"/>
  
+ <img src="https://user-images.githubusercontent.com/65983895/85189055-b5de6e00-b281-11ea-9e79-913c10eda6c3.gif"/>
+ <p> GIF does not reflect real colors </p>
  
- <h3> Skills </h3>
- <img src="https://user-images.githubusercontent.com/65983895/85108644-757de200-b1e6-11ea-8796-b9acfce4e633.PNG"/> 
- 
- 
- <h3> Courses </h3>
-  <img src="https://user-images.githubusercontent.com/65983895/85108647-76167880-b1e6-11ea-876b-5b55c8999b84.PNG"/>
- 
-  
- <h3> Courses - Hover </h3>
-  <img src="https://user-images.githubusercontent.com/65983895/85108646-757de200-b1e6-11ea-97e8-ce109b5790c1.PNG"/>
+
   

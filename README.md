@@ -30,7 +30,7 @@ and an area with the courses I attended with links to the respective repositorie
   <p> *GIF does not reflect real colors </p>
  <img src="https://user-images.githubusercontent.com/65983895/85189055-b5de6e00-b281-11ea-9e79-913c10eda6c3.gif"/>
    <h3> Mobile</h3>
- <img src="https://user-images.githubusercontent.com/65983895/85189055-b5de6e00-b281-11ea-9e79-913c10eda6c3.gif"/>
+ <img src="https://user-images.githubusercontent.com/65983895/85235199-9cf0cc80-b3e9-11ea-98d7-45de9e5ede0a.gif"/>
 
  
 

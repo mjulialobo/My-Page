@@ -204,13 +204,9 @@
          grid-template-columns: repeat(1, 1fr);
      }
      .course-content:hover {
-         -webkit-box-shadow: 7px 11px 28px 5px rgba(255, 255, 255, 0.75);
-         -moz-box-shadow: 7px 11px 28px 5px rgba(39, 46, 40, 0.75);
-         box-shadow: 7px 11px 28px 5px rgba(39, 46, 40, 0.75);
-         border-radius: 10px;
          width: 90%;
          height: 90%;
          background: #9bd194;
-         z-index: 10;
+         z-index: inherit;
      }
  }

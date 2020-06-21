@@ -15,13 +15,13 @@ and an area with the courses I attended with links to the respective repositorie
 <p> To access the site, <a href="https://mariajulialobo.000webhostapp.com/"> click here</a>! </p>
   
    <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> How to use </h2>
- <ul style= circle> <li> You need to install  <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VSCode </li> 
- <li> Make a copy of this repository </li> 
+ <ul style= circle> 
+ <li> Make a copy of this repository </li> </ul>
  
 ```
  $ git clone https://github.com/mjulialobo/My-Page
 ```
-<li> Use Live Server to activate the server </li> </ul>
+
 
 
  <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>

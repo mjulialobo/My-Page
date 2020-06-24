@@ -15,13 +15,13 @@ and an area with the courses I attended with links to the respective repositorie
 <p> To access the site, <a href="https://mariajulialobo.000webhostapp.com/"> click here</a>! </p>
   
    <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> How to use </h2>
- <ul style= circle> <li> You need to install  <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> on VSCode </li> 
- <li> Make a copy of this repository </li> 
+ <ul style= circle> 
+ <li> Make a copy of this repository </li> </ul>
  
 ```
  $ git clone https://github.com/mjulialobo/My-Page
 ```
-<li> Use Live Server to activate the server </li> </ul>
+
 
 
  <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
@@ -30,7 +30,7 @@ and an area with the courses I attended with links to the respective repositorie
   <p> *GIF does not reflect real colors </p>
  <img src="https://user-images.githubusercontent.com/65983895/85189055-b5de6e00-b281-11ea-9e79-913c10eda6c3.gif"/>
    <h3> Mobile</h3>
- <img src="https://user-images.githubusercontent.com/65983895/85189055-b5de6e00-b281-11ea-9e79-913c10eda6c3.gif"/>
+ <img src="https://user-images.githubusercontent.com/65983895/85235199-9cf0cc80-b3e9-11ea-98d7-45de9e5ede0a.gif"/>
 
  
 
